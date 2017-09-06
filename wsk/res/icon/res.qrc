@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>skin/style1/theme.png</file>
+        <file>skin/style1/quit.png</file>
+        <file>skin/style1/network.svg</file>
+        <file>skin/style1/login_btn_p.png</file>
+        <file>skin/style1/install.png</file>
+        <file>skin/style1/clock.svg</file>
+        <file>skin/style1/center.png</file>
+        <file>skin/style1/bg.jpg</file>
+        <file>skin/style1/baidu.svg</file>
+    </qresource>
+</RCC>

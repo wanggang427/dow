@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.0" id="&#x56FE;&#x5C42;_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 enable-background="new 0 0 64 64" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="1423" height="511" x="-419" y="-492" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="XMLID_99_">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="63.991" x2="32" y2="-9.000001e-003">
+		<stop  offset="0" style="stop-color:#099FAD"/>
+		<stop  offset="0.3411" style="stop-color:#2BBBA9"/>
+		<stop  offset="0.7112" style="stop-color:#32DD8F"/>
+		<stop  offset="1" style="stop-color:#45F39A"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M13.3,0h37.3C58,0,64,6,64,13.3v37.3C64,58,58,64,50.7,64
+		H13.3C6,64,0,58,0,50.7V13.3C0,6,6,0,13.3,0z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3.9052" y1="3.8962" x2="60.0948" y2="60.0858">
+		<stop  offset="0" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="2.826799e-002" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.4283" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.6283" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:0.15"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M13.3,0h37.3C58,0,64,6,64,13.3v37.3C64,58,58,64,50.7,64
+		H13.3C6,64,0,58,0,50.7V13.3C0,6,6,0,13.3,0z"/>
+</g>
+<rect x="31.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1" height="64"/>
+<rect y="31.5" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="64" height="1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M55.2,17.8L55.2,17.8c0,0.3-0.2,0.5-0.5,0.5h-13
+	c-0.3,0-0.5-0.2-0.5-0.5l0,0c0-0.3,0.2-0.5,0.5-0.5h13C54.9,17.3,55.2,17.6,55.2,17.8z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M22.7,17H17v-5.7c0-0.3-0.2-0.5-0.5-0.5S16,11.1,16,11.3V17H9.7
+	c-0.3,0-0.5,0.2-0.5,0.5S9.4,18,9.7,18H16v6.3c0,0.3,0.2,0.5,0.5,0.5s0.5-0.2,0.5-0.5V18h5.7c0.3,0,0.5-0.2,0.5-0.5S22.9,17,22.7,17
+	z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M16.9,48.7l4.2-4.2c0.2-0.2,0.2-0.5,0-0.7c-0.2-0.2-0.5-0.2-0.7,0
+	L16.2,48l-4.2-4.2c-0.2-0.2-0.5-0.2-0.7,0c-0.2,0.2-0.2,0.5,0,0.7l4.2,4.2l-4.2,4.2c-0.2,0.2-0.2,0.5,0,0.7c0.2,0.2,0.5,0.2,0.7,0
+	l4.2-4.2l4.2,4.2c0.2,0.2,0.5,0.2,0.7,0s0.2-0.5,0-0.7L16.9,48.7z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M55.2,50.7L55.2,50.7c0,0.3-0.2,0.5-0.5,0.5h-13
+	c-0.3,0-0.5-0.2-0.5-0.5l0,0c0-0.3,0.2-0.5,0.5-0.5h13C54.9,50.2,55.2,50.4,55.2,50.7z"/>
+</svg>

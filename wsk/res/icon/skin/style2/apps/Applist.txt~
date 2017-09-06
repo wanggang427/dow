@@ -1,0 +1,33 @@
+
+1, 办公运用  
+   文字处理        soffice -writer   writer.png
+   电子表格        soffice -calc     calc.png
+   演示文档        soffice -impress  impress.png
+   PDF文件浏览器 evince            pdf.png 
+   文件浏览器      nautilus          folder.png
+
+2，网络应用
+   firefox 浏览器 firefox         browser.png 
+   FTP客户端       filezilla       filezilla.png
+    电子邮件         thunderbird     email.png
+    
+
+3, 休闲娱乐
+   图片编辑器        gimp            gimp.png
+   音视频播放器      smplayer        video.png
+   图片浏览器        eog             viewer.png
+   照片管理器        shotwell        shotwell.png
+   画图               pinta           painter.png
+   
+4，系统工具
+   控制面板           mate-control-center                 configure.png
+   打印机             system-config-printer               printer.png
+   网络连接           nm-connection-editor                network.png
+   记事本             gedit                editor.png
+   屏幕保护           gnome-screensaver   screensaver.png
+   截图工具           gnome-screenshot    screenshot.png
+   系统监视器         gnome-system-monitor  monitor.png
+   
+
+
+

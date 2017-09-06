@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.0" id="&#x56FE;&#x5C42;_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 enable-background="new 0 0 64 64" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="1423" height="511" x="-419" y="-492" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="XMLID_79_">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="64" x2="32" y2="-8.367351e-010">
+		<stop  offset="0" style="stop-color:#4D67D0"/>
+		<stop  offset="0.3087" style="stop-color:#467AD2"/>
+		<stop  offset="0.627" style="stop-color:#40A2D8"/>
+		<stop  offset="1" style="stop-color:#65D1E5"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M13.3,0h37.3C58,0,64,6,64,13.3v37.3C64,58,58,64,50.7,64
+		H13.3C6,64,0,58,0,50.7V13.3C0,6,6,0,13.3,0z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3.9052" y1="3.9052" x2="60.0948" y2="60.0948">
+		<stop  offset="0" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="2.826799e-002" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.2" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.4" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.4283" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.6" style="stop-color:#231815;stop-opacity:0.15"/>
+		<stop  offset="0.6283" style="stop-color:#231815;stop-opacity:0.1288"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:0"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:2.120099e-002"/>
+		<stop  offset="0.8" style="stop-color:#231815;stop-opacity:0.15"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M13.3,0h37.3C58,0,64,6,64,13.3v37.3C64,58,58,64,50.7,64
+		H13.3C6,64,0,58,0,50.7V13.3C0,6,6,0,13.3,0z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="28.3205" y1="12.6622" x2="28.3205" y2="46.446">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#231815"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M34.8,17.6c0,0-1.2-2.3-1.6-3c-0.4-0.8-0.9-1.9-3-1.9h-2.4H15.3h-2.5c-1.9,0-3.5,1.4-3.5,3.2V43
+		c0,1.8,1.7,3.4,3.5,3.4h2.5h12.6h2.5c1.9,0,17.1-5,17.1-6.8L34.8,17.6z"/>
+	<g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.1" width="52" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAApCAYAAAB6MAquAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAVZJREFUeNrsmstKA0EQRavHiW8M
+IkYh2bh1p36DH+5W/AK3GgVFUFDU+BhvmSppO7i2OtwLh4ZJFnOodC/6JslsUrFGTlesMy/dgB5Y
+sjUFl3kDr7Z+lkILYAVsgyHogzaolMq8g3swBrfgWaXabDIqMwIH4MiklgNP6AVcglNwBq7AxCfQ
+s8mozDE4BAN7HjUTk9BcgzsXEtszQ5uMyuyBVZtc1HzYOrLt8b3n8wn1TWpgMm0Fp9xieYA12WmX
+n26N1JNUHtN/flhjGpmzUIhCFKIQhShEIQpRiEIUohCFKEQhClGIQhT6X6GuoJb8ele/kNf2S1uw
+J/AI1mV6ER75aljbB61UvMHrXMjbMO1XzsGmfckriqjxfkhLrweX8glpG3YBTsAN2Ac7Mm0joiZv
+8MY2hJ+flJfFa2AL7IINqbBjzV82mVgrc9KC52Iilf5P4UuAAQCAWUsBWJvKQgAAAABJRU5ErkJg
+gg==" transform="matrix(1 0 0 1 6 14)">
+				</image>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M51.4,51.3H12.6c-1.9,0-3.4-1.5-3.4-3.4V20.8
+					c0-1.9,1.5-3.4,3.4-3.4h38.8c1.9,0,3.4,1.5,3.4,3.4V48C54.8,49.8,53.3,51.3,51.4,51.3z"/>
+			</g>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="32.0016" y1="17.4609" x2="32.0016" y2="51.3378">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#231815"/>
+			</linearGradient>
+			<path opacity="5.000000e-002" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" d="M51.4,51.3H12.6
+				c-1.9,0-3.4-1.5-3.4-3.4V20.8c0-1.9,1.5-3.4,3.4-3.4h38.8c1.9,0,3.4,1.5,3.4,3.4V48C54.8,49.8,53.3,51.3,51.4,51.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="32.0132" y1="26.9644" x2="32.0132" y2="44.4396">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#231815"/>
+			</linearGradient>
+			<path opacity="5.000000e-002" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" d="M42.1,44.4H22
+				c-1.1,0-2-1.1-2-2.4V29.3c0-1.3,0.9-2.4,2-2.4h20.1c1.1,0,2,1.1,2,2.4v12.8C44.1,43.4,43.2,44.4,42.1,44.4z"/>
+			<path fill="none" stroke="#036EB8" stroke-miterlimit="10" d="M42.1,44.4H22c-1.1,0-2-1.1-2-2.4V29.3c0-1.3,0.9-2.4,2-2.4h20.1
+				c1.1,0,2,1.1,2,2.4v12.8C44.1,43.4,43.2,44.4,42.1,44.4z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<image overflow="visible" opacity="0.1" width="30" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAXCAYAAADz/ZRUAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdlJREFUeNrclssvA1EYxU079WZB
+i0hs2LAgWFhhy9/rFZImHiF0R4hHpOIVJPVolVJqxrnJuXwZ03bInY2b/HKbzkzPPee795taNd/D
+8symh0t8BetBHLSCqMFFKMFXcAseQUlfsIV4AkyDYdBoWFwJr4MUyOgF2MJ1L5gEE6DZsHiOqeak
+e+1cXRgDg6AD1BmutzLTD7pAjMZc7bwF9IFOUBvCprOZbkz+doRzlG5jIe72H6cpIr6wQhQuG4ep
+TSXnQEZsw+c4z9LJfhG6uDq7i2AHtIEp9oumSgnYBoRfQBqsgQ02K3Vce7jDy2pEDAgfgCTYBjfg
+BCyDLdnN/uLc9TkqUngfzIAlcAaKFEuxdyQ4N/zWud5IGbbEjzLCC+AIFHitxGdU/ffAHZ91gzrX
+Aof8AVXDITp5Y9ReYUc8rxZwCVbYNcfF4quKa2ezYJM9WbkfpZP5CsLyZaLjb/eL3hY3O6TgcZbm
+i0GV4Bxcg9UKwtK9jn+Eb82SjF//aVANYQB0M6454ewJPLOJqE21C06rCMsE3nmfKtcxuODnrw7k
+chFFRpX0OHNYinuQZQpuwCOpxB/AFY1ldf0tEX+czvOMNoizoCPKtutwMa737Pre8G/HpwADACpa
+ouQsfsUzAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 18.2 25.2)">
+			</image>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#036EB8" d="M24.7,38.8c0.2-0.2,0.5-0.4,0.8-0.4c0.3,0,0.6,0.1,0.8,0.4
+				l2.5,2.6l6.9-7.8c0.3-0.3,0.7-0.5,1.1-0.5c0.4,0,0.8,0.2,1.1,0.6l6.1,8.7c0-0.1,0-0.2,0-0.3V29.3c0-1.3-0.8-2.3-1.9-2.3H22
+				c-1.1,0-2,1-2,2.3v12.8c0,0.5,0.1,0.9,0.3,1.3L24.7,38.8z"/>
+		</g>
+		<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="32.0064" y1="27" x2="32.0064" y2="43.3402">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#231815"/>
+		</linearGradient>
+		<path opacity="5.000000e-002" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_6_)" d="M24.7,38.8
+			c0.2-0.2,0.5-0.4,0.8-0.4c0.3,0,0.6,0.1,0.8,0.4l2.5,2.6l6.9-7.8c0.3-0.3,0.7-0.5,1.1-0.5c0.4,0,0.8,0.2,1.1,0.6l6.1,8.7
+			c0-0.1,0-0.2,0-0.3V29.3c0-1.3-0.8-2.3-1.9-2.3H22c-1.1,0-2,1-2,2.3v12.8c0,0.5,0.1,0.9,0.3,1.3L24.7,38.8z"/>
+	</g>
+	<g>
+		<g>
+			
+				<image overflow="visible" opacity="0.3" width="9" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJpJREFUeNqcz7EKwkAQRdFdEkQ0
+ttppZ2mRxkb/wS9XsBHsrKxsNJGIhnhH3uBi6cAhGfbtMBvDtzL09f/AK/wc+neMBaaICprOAx5a
+Y4MlJnjioukhxxClQiv1c9xxxM2m5tprpkOb3EONUbLaZ2KDEw4oMMAZV7Rp0G5v1e8VtNAOlT8m
+Jq8utF+mSZWGtGnQK+278E+9BRgAWb4gZYyof3sAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 21.4955 28.4955)">
+			</image>
+			<g>
+				<circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="25.3" cy="31.9" r="2"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
