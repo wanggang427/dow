@@ -7,7 +7,7 @@
 class BaseWindow : public QWidget
 {
 public:
-    BaseWindow(QWidget *parent = 0);
+    explicit BaseWindow(QWidget *parent = 0);
 private:
 };
 

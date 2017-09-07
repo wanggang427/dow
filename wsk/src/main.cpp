@@ -14,7 +14,7 @@ int main(int argc,char **argv)
     qss.close();
     /*--------------------------------------*/
 //    MainWindow window;
-    BaseWindow window;
+    MainWindow window;
     window.show();
     app.exec();
     return 0;

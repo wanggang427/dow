@@ -2,8 +2,10 @@
 #define MAINWINDOW_H
 #include <QWidget>
 #include "basewindow.h"
+#include "topwindow.h"
+#include "bottomwindow.h"
 
-class MainWindow : public QWidget
+class MainWindow : public BaseWindow
 {
     Q_OBJECT
 public:
@@ -15,7 +17,10 @@ signals:
 public slots:
 
 private:
-    QString m_baseimage;
+//    QString m_baseimage;
+    TopWindow *topwindow;
+    BottomWindow *bottomwindow;
+
 };
 
 

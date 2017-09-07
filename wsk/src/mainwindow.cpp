@@ -1,13 +1,20 @@
+#include <QVBoxLayout>
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
-    :QWidget(parent)
+    :BaseWindow(parent)
 {
+    topwindow = new TopWindow;
+    bottomwindow = new BottomWindow;
+    QVBoxLayout *layout = new QVBoxLayout;
+    layout->addWidget(topwindow,1);
+    layout->addWidget(bottomwindow,29);
+    setLayout(layout);
 
 }
 
 MainWindow::MainWindow(QString image, QWidget *parent)
-    :QWidget(parent)
+    :BaseWindow(parent)
 {
 
 }
