@@ -3,7 +3,7 @@
 #include <QWidget>
 #include "basewindow.h"
 
-class MainWindow : public BaseWindow
+class MainWindow : public QWidget
 {
     Q_OBJECT
 public:

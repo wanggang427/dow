@@ -9,5 +9,6 @@
         <file>skin/style1/center.png</file>
         <file>skin/style1/bg.jpg</file>
         <file>skin/style1/baidu.svg</file>
+        <file>skin/style1/ysimg/work_switch.png</file>
     </qresource>
 </RCC>

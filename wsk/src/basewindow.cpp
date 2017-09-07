@@ -3,8 +3,8 @@
 #include <QPainter>
 
 
-BaseWindow::BaseWindow(QString baseimage, QWidget *parent)
-    :QWidget(parent),m_imagepath(baseimage)
+BaseWindow::BaseWindow( QWidget *parent)
+    :QWidget(parent)
 {
     // 窗口最大化
     setWindowState(Qt::WindowMaximized);
@@ -12,12 +12,4 @@ BaseWindow::BaseWindow(QString baseimage, QWidget *parent)
     setWindowFlags(Qt::FramelessWindowHint | Qt::WindowStaysOnBottomHint | Qt::Tool );
     // 背景透明
     setAttribute(Qt::WA_TranslucentBackground, true);
-}
-
-void BaseWindow::paintEvent(QPaintEvent *event)
-{
-    QPainter painter(this);
-    painter.setRenderHint(QPainter::Antialiasing, true);
-    QPixmap background(m_imagepath);
-    painter.drawPixmap(rect(),background);
 }

@@ -1,13 +1,13 @@
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
-    :BaseWindow(":/res/skin/style1/bg.jpg")
+    :QWidget(parent)
 {
 
 }
 
 MainWindow::MainWindow(QString image, QWidget *parent)
-    :BaseWindow(image)
+    :QWidget(parent)
 {
 
 }

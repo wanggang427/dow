@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>qss/checkbox.qss</file>
+        <file>icon/skin/style1/theme.png</file>
+        <file>icon/skin/style1/quit.png</file>
+        <file>icon/skin/style1/network.svg</file>
+        <file>icon/skin/style1/login_btn_p.png</file>
+        <file>icon/skin/style1/install.png</file>
+        <file>icon/skin/style1/clock.svg</file>
+        <file>icon/skin/style1/center.png</file>
+        <file>icon/skin/style1/bg.jpg</file>
+        <file>icon/skin/style1/baidu.svg</file>
+        <file>icon/skin/style1/ysimg/work_switch.png</file>
+        <file>icon/skin/style1/ysimg/desktop_switch.png</file>
+        <file>icon/skin/style1/ysimg/aio_recentsession_unreadmsg_selected_wide@2x.png</file>
+    </qresource>
+</RCC>
