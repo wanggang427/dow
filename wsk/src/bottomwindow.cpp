@@ -7,7 +7,6 @@
 BottomWindow::BottomWindow(QString baseimage, QWidget *parent) :
     QWidget(parent),m_imagepath(baseimage)
 {
-     setWindowFlags(Qt::FramelessWindowHint);
 }
 
 

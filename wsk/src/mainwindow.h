@@ -17,6 +17,9 @@ signals:
 public slots:
 
 private:
+    void switchWork();
+    void resizeEvent(QResizeEvent *event);
+
 //    QString m_baseimage;
     TopWindow *topwindow;
     BottomWindow *bottomwindow;

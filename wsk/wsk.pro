@@ -2,11 +2,13 @@
 
 include($$PWD/src/src.pri)
 
-QT  += core widgets
+QT  += widgets
 
 SOURCES +=
 
-OTHER_FILES +=
+OTHER_FILES += \
+    res/qss/checkbox.qss
 
 RESOURCES += \
-    res/icon/res.qrc
+    res/icon/res.qrc \
+    res/res_all.qrc

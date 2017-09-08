@@ -1,7 +1,8 @@
 #ifndef TOPWINDOW_H
 #define TOPWINDOW_H
-
 #include <QWidget>
+#include <QRect>
+
 //#include <QCheckBox>
 class QPushButton;
 class QCheckBox;
@@ -15,6 +16,7 @@ signals:
     void switch_work(bool);
 public slots:
 private:
+
     QCheckBox *m_switch;
 
 };

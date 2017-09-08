@@ -2,6 +2,8 @@
 #include <QCheckBox>
 #include <QHBoxLayout>
 
+#include <QDebug>
+
 TopWindow::TopWindow(QWidget *parent) :
     QWidget(parent)
 {
@@ -11,6 +13,8 @@ TopWindow::TopWindow(QWidget *parent) :
     layout->addStretch(1);
     layout->addWidget(m_switch);
     layout->addStretch(19);
+    layout->setMargin(0);
     setLayout(layout);
+
     connect(m_switch, SIGNAL(clicked(bool)), this, SIGNAL(switch_work(bool)));
 }

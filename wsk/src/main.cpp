@@ -4,6 +4,7 @@
 #include "topwindow.h"
 #include "mainwindow.h"
 #include "basewindow.h"
+#include <QWidget>
 int main(int argc,char **argv)
 {
     QApplication app(argc,argv);
@@ -13,7 +14,6 @@ int main(int argc,char **argv)
     qApp->setStyleSheet(qss.readAll());
     qss.close();
     /*--------------------------------------*/
-//    MainWindow window;
     MainWindow window;
     window.show();
     app.exec();

@@ -1,4 +1,7 @@
 #include <QVBoxLayout>
+#include <QDesktopWidget>
+#include <QApplication>
+#include <QRect>
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -7,8 +10,10 @@ MainWindow::MainWindow(QWidget *parent)
     topwindow = new TopWindow;
     bottomwindow = new BottomWindow;
     QVBoxLayout *layout = new QVBoxLayout;
-    layout->addWidget(topwindow,1);
-    layout->addWidget(bottomwindow,29);
+    layout->addWidget(topwindow);
+    layout->addWidget(bottomwindow);
+    layout->setMargin(0);
+    switchWork();
     setLayout(layout);
 
 }
@@ -17,6 +22,28 @@ MainWindow::MainWindow(QString image, QWidget *parent)
     :BaseWindow(parent)
 {
 
+}
+
+void MainWindow::switchWork()
+{
+    QRect rect = QApplication::desktop()->screenGeometry();
+    if(bottomwindow->isHidden())
+    {
+        setWindowState(Qt::WindowMaximized);
+        bottomwindow->show();
+    }
+    else
+    {
+        bottomwindow->hide();
+        setFixedHeight(rect.height()/30);
+    //    setWindowState(Qt::WindowMaximized);
+    }
+}
+
+void MainWindow::resizeEvent(QResizeEvent *event)
+{
+    QRect rect = QApplication::desktop()->screenGeometry();
+    topwindow->setFixedHeight(rect.height()/30);
 }
 
 #include <QHBoxLayout>
