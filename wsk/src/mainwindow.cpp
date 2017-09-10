@@ -2,6 +2,7 @@
 #include <QDesktopWidget>
 #include <QApplication>
 #include <QRect>
+#include <QDebug>
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -13,8 +14,12 @@ MainWindow::MainWindow(QWidget *parent)
     layout->addWidget(topwindow);
     layout->addWidget(bottomwindow);
     layout->setMargin(0);
-    switchWork();
     setLayout(layout);
+    switchWork(true);
+    switchWork(true);
+    connect(topwindow,SIGNAL(switch_work(bool)),this,SLOT(switchWork(bool)));
+//    QRect rect = QApplication::desktop()->screenGeometry();
+//    setGeometry(0,0,rect.width(),rect.height()/30);
 
 }
 
@@ -24,8 +29,22 @@ MainWindow::MainWindow(QString image, QWidget *parent)
 
 }
 
-void MainWindow::switchWork()
+void MainWindow::switchWork(bool w)
 {
+    work = !work;
+    QRect rect = QApplication::desktop()->screenGeometry();
+    if(!work)
+    {
+        bottomwindow->hide();
+        setGeometry(0,0,rect.width(),rect.height()/30);
+        qDebug() << "-------------" << "call self";
+    }
+    else
+    {
+        setWindowState(Qt::WindowMaximized);
+        bottomwindow->show();
+    }
+    /*
     QRect rect = QApplication::desktop()->screenGeometry();
     if(bottomwindow->isHidden())
     {
@@ -37,7 +56,8 @@ void MainWindow::switchWork()
         bottomwindow->hide();
         setFixedHeight(rect.height()/30);
     //    setWindowState(Qt::WindowMaximized);
-    }
+    }*/
+
 }
 
 void MainWindow::resizeEvent(QResizeEvent *event)
@@ -54,6 +74,7 @@ void MainWindow::resizeEvent(QResizeEvent *event)
 mytest::mytest(QWidget *parent)
     :QWidget(parent)
 {
+    setWindowFlags(Qt::FramelessWindowHint);
     QHBoxLayout *pLayout = new QHBoxLayout();
     QButtonGroup *m_pButtonGroup = new QButtonGroup(this);
 
@@ -73,4 +94,7 @@ mytest::mytest(QWidget *parent)
     pLayout->setContentsMargins(10, 10, 10, 10);
 
     setLayout(pLayout);
+    QRect rect = QApplication::desktop()->screenGeometry();
+    setGeometry(0,0,rect.width(),rect.height()/30);
 }
+

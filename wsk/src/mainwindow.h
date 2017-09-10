@@ -15,14 +15,15 @@ public:
 signals:
 
 public slots:
+    void switchWork(bool w);
 
 private:
-    void switchWork();
     void resizeEvent(QResizeEvent *event);
 
 //    QString m_baseimage;
     TopWindow *topwindow;
     BottomWindow *bottomwindow;
+    bool work=true;
 
 };
 
