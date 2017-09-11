@@ -10,13 +10,12 @@ MainWindow::MainWindow(QWidget *parent)
 {
     topwindow = new TopWindow;
     bottomwindow = new BottomWindow;
-    QVBoxLayout *layout = new QVBoxLayout;
+    layout = new QVBoxLayout;
     layout->addWidget(topwindow);
     layout->addWidget(bottomwindow);
     layout->setMargin(0);
     setLayout(layout);
-    switchWork(true);
-    switchWork(true);
+    setWindowState(Qt::WindowMaximized);
     connect(topwindow,SIGNAL(switch_work(bool)),this,SLOT(switchWork(bool)));
 //    QRect rect = QApplication::desktop()->screenGeometry();
 //    setGeometry(0,0,rect.width(),rect.height()/30);
@@ -31,17 +30,19 @@ MainWindow::MainWindow(QString image, QWidget *parent)
 
 void MainWindow::switchWork(bool w)
 {
+
     work = !work;
     QRect rect = QApplication::desktop()->screenGeometry();
     if(!work)
     {
+        setWindowState(Qt::WindowNoState);
         bottomwindow->hide();
         setGeometry(0,0,rect.width(),rect.height()/30);
         qDebug() << "-------------" << "call self";
     }
     else
     {
-        setWindowState(Qt::WindowMaximized);
+        setGeometry(0,0,rect.width(),rect.height());
         bottomwindow->show();
     }
     /*

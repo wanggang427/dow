@@ -1,6 +1,7 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 #include <QWidget>
+#include <QVBoxLayout>
 #include "basewindow.h"
 #include "topwindow.h"
 #include "bottomwindow.h"
@@ -23,6 +24,7 @@ private:
 //    QString m_baseimage;
     TopWindow *topwindow;
     BottomWindow *bottomwindow;
+    QVBoxLayout *layout;
     bool work=true;
 
 };
