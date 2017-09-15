@@ -32,33 +32,19 @@ void MainWindow::switchWork(bool w)
 {
 
     work = !work;
-    QRect rect = QApplication::desktop()->screenGeometry();
+    //QRect rect = QApplication::desktop()->screenGeometry();
+    QRect rect = QApplication::desktop()->availableGeometry();
     if(!work)
     {
         setWindowState(Qt::WindowNoState);
         bottomwindow->hide();
         setGeometry(0,0,rect.width(),rect.height()/30);
-        qDebug() << "-------------" << "call self";
     }
     else
     {
         setGeometry(0,0,rect.width(),rect.height());
         bottomwindow->show();
     }
-    /*
-    QRect rect = QApplication::desktop()->screenGeometry();
-    if(bottomwindow->isHidden())
-    {
-        setWindowState(Qt::WindowMaximized);
-        bottomwindow->show();
-    }
-    else
-    {
-        bottomwindow->hide();
-        setFixedHeight(rect.height()/30);
-    //    setWindowState(Qt::WindowMaximized);
-    }*/
-
 }
 
 void MainWindow::resizeEvent(QResizeEvent *event)
