@@ -1,6 +1,6 @@
 
 
-* { color: red; background-color: rgb(90, 180, 116)}
+* { color: red; background-color: rgb(10, 97, 108)}
 
 QCheckBox{
     spacing: 2px;
