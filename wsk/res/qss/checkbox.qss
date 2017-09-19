@@ -1,3 +1,7 @@
+
+
+* { color: red; background-color: rgb(90, 180, 116)}
+
 QCheckBox{
     spacing: 2px;
     color: white;
@@ -24,5 +28,3 @@ QCheckBox::indicator:checked:hover {
 QCheckBox::indicator:checked:pressed {
     image: url(:/res/icon/skin/style1/ysimg/desktop_switch.png);
 }
-
-TopWindow { color: 434 }
